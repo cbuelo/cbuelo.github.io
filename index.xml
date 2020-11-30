@@ -23,7 +23,7 @@ par(mfrow=c(2,1), mar=c(4,4,1,1)) plot(lynx, main = &amp;quot;Canadian Lynx Trap
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>I&amp;rsquo;m an aquatic ecologist interested broadly in water quality, enviromental change, and data science. My research focuses on ecosystem resilience and regime shifts, algal blooms, and metabolism. I&amp;rsquo;m currently a Ph.D. candidate in the Pace Lab at the University of Virginia&amp;rsquo;s Department of Environmental Sciences. I completed my B.S. in 2014 at the University of Wisconsin in Biology and Mathematics.</description>
+      <description>I&amp;rsquo;m an aquatic ecologist interested broadly in water quality, environmental change, and data science. My research focuses on ecosystem resilience and regime shifts, algal blooms, and metabolism. I&amp;rsquo;m currently a Ph.D. candidate in the Pace Lab at the University of Virginia&amp;rsquo;s Department of Environmental Sciences. I completed my B.S. in 2014 at the University of Wisconsin in Biology and Mathematics.</description>
     </item>
     
     <item>
@@ -46,7 +46,7 @@ Charlottesville, VA 22904</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/research/</guid>
-      <description>Ecosystem Resilience &amp;amp; Regime Shifts Ecosystems are subject to constant pressure and disturbances from natural sources and human impacts. Resilience is the ability of an ecosystem to recover to its original state following a disturbance. Gradual or sudden decreases in ecosystem resilience can result in regime shifts - abrupt changes in the state of an ecosystem, due to transistions in the feedbacks that control system dynamics. These changes often seem to arise without warning, but theory suggests that regime shifts in a wide range of systems are preceeded by predictable changes in system statistical properties.</description>
+      <description>Ecosystem Resilience &amp;amp; Regime Shifts Ecosystems are subject to constant pressure and disturbances from natural sources and human impacts. Resilience is the ability of an ecosystem to recover to its original state following a disturbance. Gradual or sudden decreases in ecosystem resilience can result in regime shifts - abrupt changes in the state of an ecosystem, due to transistions in the feedbacks that control system dynamics. These changes often seem to arise without warning, but theory suggests that regime shifts in a wide range of systems are preceded by predictable changes in system statistical properties.</description>
     </item>
     
   </channel>
