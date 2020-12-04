@@ -3,50 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/</loc>
+    <loc>https://calbuelo.com/blog/</loc>
     <lastmod>2020-11-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://calbuelo.com/categories/</loc>
     <lastmod>2020-11-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://calbuelo.com/</loc>
     <lastmod>2020-11-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/r/</loc>
+    <loc>https://calbuelo.com/tags/r/</loc>
     <lastmod>2020-11-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://calbuelo.com/tags/</loc>
     <lastmod>2020-11-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/test/</loc>
+    <loc>https://calbuelo.com/categories/test/</loc>
     <lastmod>2020-11-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/test-post/</loc>
+    <loc>https://calbuelo.com/blog/test-post/</loc>
     <lastmod>2020-11-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://calbuelo.com/about/</loc>
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>https://calbuelo.com/contact/</loc>
   </url>
   
   <url>
-    <loc>/research/</loc>
+    <loc>https://calbuelo.com/research/</loc>
   </url>
   
 </urlset>
