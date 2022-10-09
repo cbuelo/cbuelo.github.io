@@ -13,8 +13,8 @@
       <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://calbuelo.com/blog/test-post/</guid>
-      <description>   Testing, testing, 1, 2, 3… Here’s some R code and a figure:
-par(mfrow=c(2,1), mar=c(4,4,1,1)) plot(lynx, main = &amp;quot;Canadian Lynx Trappings&amp;quot;, lwd=2) acf(lynx)  </description>
+      <description>Testing, testing, 1, 2, 3…Here’s some R code and a figure:
+par(mfrow=c(2,1), mar=c(4,4,1,1))plot(lynx, main = &amp;quot;Canadian Lynx Trappings&amp;quot;, lwd=2)acf(lynx)</description>
     </item>
     
   </channel>
